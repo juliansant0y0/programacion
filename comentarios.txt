@@ -19,3 +19,7 @@ history
 
 //eliminar historial
 history -c
+
+//puede ver cada commit
+//puedes ver el id del commit
+git log
