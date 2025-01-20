@@ -7,3 +7,15 @@ git status
 
 //agregar a git el archivo
 git add .
+
+git config --global user.name "Julian Santoyo"
+git config --global user.email "juliansantoyo@gmail.com"
+
+//ver la configuracion
+git config --list
+
+//ver historial
+history
+
+//eliminar historial
+history -c
