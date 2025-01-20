@@ -1,0 +1,9 @@
+
+//iniciar git
+git init
+
+//hacer seguimiento
+git status
+
+//agregar a git el archivo
+git add .
